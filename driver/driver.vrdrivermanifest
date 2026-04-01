@@ -1,0 +1,14 @@
+{
+  "alwaysActivate": false,
+  "name": "budget_vr_tracker",
+  "directory": "",
+  "resourceOnly": false,
+  "hmd_presence": [],
+  "type": "Tracker",
+  "strings": {
+    "en_us": {
+      "budget_vr_tracker": "Budget VR Tracker",
+      "budget_vr_tracker_description": "DIY VR tracking using webcam and phone"
+    }
+  }
+}
