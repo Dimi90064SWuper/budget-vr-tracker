@@ -78,7 +78,6 @@ budget-vr-tracker/
 ## 📚 Документация
 
 - [WEB_VIEWER.md](docs/WEB_VIEWER.md) — 3D визуализация в браузере
-- [GITHUB_SETUP.md](docs/GITHUB_SETUP.md) — Инструкция по push на GitHub
 
 ## 🔧 Настройка
 
