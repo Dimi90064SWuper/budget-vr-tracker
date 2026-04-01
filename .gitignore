@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+build/
+*.egg-info/
+
+# C++
+build/
+*.o
+*.so
+*.dll
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Calibration
+~/.budget_vr/
+
+# OpenVR SDK
+driver/libraries/openvr/
